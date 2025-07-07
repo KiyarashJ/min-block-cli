@@ -1,0 +1,26 @@
+[
+  {
+    "num": 0,
+    "timestamp": "2025-07-07T04:59:08.051729600+03:30",
+    "tr_list": [],
+    "previous_hash": "0",
+    "current_hash": "0008b57aaf9c9a2d07fda8689c0293e30ada2ed09e06e228d8552ba478611412",
+    "nonce": 2266
+  },
+  {
+    "num": 1,
+    "timestamp": "2025-07-07T04:59:08.077000400+03:30",
+    "tr_list": [
+      {
+        "from": "alice",
+        "to": "bob",
+        "time": "2025-07-07T04:59:08.076991100+03:30",
+        "amount": 42.0,
+        "digital_signature": "dummy-signature"
+      }
+    ],
+    "previous_hash": "0008b57aaf9c9a2d07fda8689c0293e30ada2ed09e06e228d8552ba478611412",
+    "current_hash": "00010cec66a3978bad34e40fb289b2a21728ef4f60bac3d17401970b86622c98",
+    "nonce": 576
+  }
+]
