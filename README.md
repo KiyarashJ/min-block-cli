@@ -30,32 +30,32 @@ cargo run
 ```
 
 # 📁 File Structure
-## transaction.rs - Handles creation and signing of transactions.
+ transaction.rs - Handles creation and signing of transactions.
 
-## block.rs - Defines blocks, mining, and saving/loading from disk.
+ block.rs - Defines blocks, mining, and saving/loading from disk.
  
-## blockchain.rs - Manages the chain of blocks and validation.
+ blockchain.rs - Manages the chain of blocks and validation.
 
-## main.rs - CLI entry point for user interaction.
+ main.rs - CLI entry point for user interaction.
 
 
 # ⚙️ How It Works
-## User inputs transaction data and signs it.
+ User inputs transaction data and signs it.
 
-## Transactions are grouped into a block.
+ Transactions are grouped into a block.
 
-## The block is mined to meet the difficulty requirement.
+ The block is mined to meet the difficulty requirement.
 
-## The mined block is added to the blockchain and saved.
+ The mined block is added to the blockchain and saved.
 
-## Blockchain validity is checked after each addition.
+ Blockchain validity is checked after each addition.
 
 
 # 🎯 Goals
-### This project is for learning purposes — to understand the basics of cryptography, blockchain structure, and Rust programming.
+ This project is for learning purposes — to understand the basics of cryptography, blockchain structure, and Rust programming.
 
 
 # 🌟 Thanks for checking this out!
-### Keep coding & stay curious! 🚀✨
+ Keep coding & stay curious! 🚀✨
 
 Made with ❤️ and Rust 🦀
